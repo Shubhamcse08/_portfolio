@@ -21,7 +21,7 @@ const BasicForm = () => {
     setResponseMsg("");
 
     try {
-      await axios.post("http://localhost:5000/send", formData);
+      await axios.post("https://portfolio-backend-s6j2.onrender.com/send", formData);
       alert("✅ Message sent successfully!");
       setFormData({ name: "", email: "", message: "" });
     } catch (error) {
