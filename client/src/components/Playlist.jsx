@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-import "./Playlist.css";
+import "./playlist.css";
 import project from "./data";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
