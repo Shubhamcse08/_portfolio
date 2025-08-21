@@ -1,11 +1,19 @@
 const projects = [
     {
+      id: 0,
+      title: "Sentiment Analysis",
+      description: "It is used to anaylze sentiments of the text.",
+      use:"•Python  •Express  •Reactjs",
+      image: "/language.png",
+      link: "https://text-sentiment-anayzer.onrender.com/"
+    },
+    {
       id: 1,
       title: "Text Translator",
       description: "It is used to translate one language into another  languages.",
       use:"•Python  •Microsoft Azure  •Streamlit",
       image: "/language.png",
-      link: "https://example.com/project-one"
+      link: "https://github.com/Shubhamcse08"
     },
     {
       id: 2,
@@ -13,7 +21,7 @@ const projects = [
       description: "Project that help in increasing typing speed.",
       use:"•Python  •Tkinter",
       image: "/typing-board.png",
-      link: "https://example.com/project-two"
+      link: "https://github.com/Shubhamcse08"
     },
     {
         id: 3,
@@ -21,7 +29,7 @@ const projects = [
         description: "A project that handle students result. Add, Update, Delete data. Also separte UI for teachers and students",
         use:"•PHP •XAMPP",
         image: "/data-chart.png",
-        link: "https://example.com/project-one"
+        link: "https://github.com/Shubhamcse08"
       },
       {
         id: 4,
@@ -29,7 +37,7 @@ const projects = [
         description: "Basic ludo game for 2 or 4 player",
         use:"•JavaScript  •Nodejs",
         image: "/ludo.png",
-        link: "https://example.com/project-two"
+        link: "https://github.com/Shubhamcse08"
       }
       ,
       {
@@ -38,7 +46,7 @@ const projects = [
         description: "Used to analyse resume faster.",
         use:"•Python  •Streamlit",
         image: "/cv.png",
-        link: "https://example.com/project-two"
+        link: "https://github.com/Shubhamcse08"
       }
   ];
   
