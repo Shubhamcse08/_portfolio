@@ -15,6 +15,14 @@ const projects = [
       image: "/language.png",
       link: "https://github.com/Shubhamcse08"
     },
+     {
+      id: 1,
+      title: "Calling Dummy",
+      description: "It is a copy of phone calling system",
+      use:"•Reactjs  •Express  •Node.js",
+      image: "/phone.png",
+      link: "https://calling-dummy-1.onrender.com"
+    },
     {
       id: 2,
       title: "Typing Test",
