@@ -24,6 +24,14 @@ const projects = [
       link: "https://calling-dummy-1.onrender.com"
     },
     {
+      id: 1.5,
+      title: "E-Commerce Website",
+      description: "A e-commerce website for clothes",
+      use:"•Reactjs  •Tailwind  ",
+      image: "/e.png",
+      link:"https://forever-vsje.onrender.com"  
+    },
+    {
       id: 2,
       title: "Typing Test",
       description: "Project that help in increasing typing speed.",
