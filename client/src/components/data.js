@@ -1,6 +1,6 @@
 const projects = [
      {
-      id: 1.5,
+      id: 1,
       title: "E-Commerce Website",
       description: "A e-commerce website for clothes",
       use:"•Reactjs  •Tailwind  ",
@@ -9,23 +9,23 @@ const projects = [
     },
     
     {
-      id: 0,
+      id: 2,
       title: "Sentiment Analysis",
       description: "It is used to anaylze sentiments of the text.",
       use:"•Python  •Express  •Reactjs",
-      image: "/language.png",
+      image:"/senti.png" ,
       link: "https://text-sentiment-anayzer.onrender.com/"
     },
     {
-      id: 1,
+      id: 3,
       title: "Text Translator",
       description: "It is used to translate one language into another  languages.",
       use:"•Python  •Microsoft Azure  •Streamlit",
-      image: "/senti.png",
+      image:"/language.png" ,
       link: "https://github.com/Shubhamcse08"
     },
      {
-      id: 1,
+      id: 4,
       title: "Calling Dummy",
       description: "It is a copy of phone calling system",
       use:"•Reactjs  •Express  •Node.js",
@@ -34,7 +34,7 @@ const projects = [
     },
    
     {
-      id: 2,
+      id: 5,
       title: "Typing Test",
       description: "Project that help in increasing typing speed.",
       use:"•Python  •Tkinter",
@@ -42,7 +42,7 @@ const projects = [
       link: "https://github.com/Shubhamcse08"
     },
     {
-        id: 3,
+        id: 6,
         title: "Academic Result Analysis",
         description: "A project that handle students result. Add, Update, Delete data. Also separte UI for teachers and students",
         use:"•PHP •XAMPP",
@@ -52,7 +52,7 @@ const projects = [
     
       
       {
-        id: 5,
+        id: 7,
         title: "AI Resume Analyzer",
         description: "Used to analyse resume faster.",
         use:"•Python  •Streamlit",
