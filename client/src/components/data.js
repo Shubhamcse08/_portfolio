@@ -1,4 +1,13 @@
 const projects = [
+     {
+      id: 1.5,
+      title: "E-Commerce Website",
+      description: "A e-commerce website for clothes",
+      use:"•Reactjs  •Tailwind  ",
+      image: "/e.png",
+      link:"https://e-commerce-frontend-gules-eta.vercel.app"  
+    },
+    
     {
       id: 0,
       title: "Sentiment Analysis",
@@ -12,7 +21,7 @@ const projects = [
       title: "Text Translator",
       description: "It is used to translate one language into another  languages.",
       use:"•Python  •Microsoft Azure  •Streamlit",
-      image: "/language.png",
+      image: "/senti.png",
       link: "https://github.com/Shubhamcse08"
     },
      {
@@ -23,14 +32,7 @@ const projects = [
       image: "/phone.png",
       link: "https://calling-dummy-1.onrender.com"
     },
-    {
-      id: 1.5,
-      title: "E-Commerce Website",
-      description: "A e-commerce website for clothes",
-      use:"•Reactjs  •Tailwind  ",
-      image: "/e.png",
-      link:"https://forever-vsje.onrender.com"  
-    },
+   
     {
       id: 2,
       title: "Typing Test",
@@ -47,15 +49,8 @@ const projects = [
         image: "/data-chart.png",
         link: "https://github.com/Shubhamcse08"
       },
-      {
-        id: 4,
-        title: "Ludo Game",
-        description: "Basic ludo game for 2 or 4 player",
-        use:"•JavaScript  •Nodejs",
-        image: "/ludo.png",
-        link: "https://github.com/Shubhamcse08"
-      }
-      ,
+    
+      
       {
         id: 5,
         title: "AI Resume Analyzer",
