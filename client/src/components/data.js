@@ -12,9 +12,9 @@ const projects = [
       id: 2,
       title: "Sentiment Analysis",
       description: "It is used to anaylze sentiments of the text.",
-      use:"•Python  •Express  •Reactjs",
+      use:"•Python  •Streamlit",
       image:"/senti.png" ,
-      link: "https://text-sentiment-anayzer.onrender.com/"
+      link: "https://text-sentiment-analys.streamlit.app"
     },
     {
       id: 3,
