@@ -3,7 +3,7 @@ const projects = [
       id: 1,
       title: "E-Commerce Website",
       description: "A e-commerce website for clothes",
-      use:"•Reactjs 0•Tailwind •MongoDB •Node.js",
+      use:"•Reactjs  •Tailwind  •MongoDB  •Node.js",
       image: "/e.png",
       link:"https://e-commerce-frontend-gules-eta.vercel.app"  
     },
