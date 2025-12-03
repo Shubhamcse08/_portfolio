@@ -3,7 +3,7 @@ const projects = [
       id: 1,
       title: "E-Commerce Website",
       description: "A e-commerce website for clothes",
-      use:"•Reactjs  •Tailwind  ",
+      use:"•Reactjs 0•Tailwind •MongoDB •Node.js",
       image: "/e.png",
       link:"https://e-commerce-frontend-gules-eta.vercel.app"  
     },
@@ -20,7 +20,7 @@ const projects = [
       id: 3,
       title: "Typing Test",
       description: "Project that help in increasing typing speed.",
-      use:"•Python  •Tkinter",
+      use:"•React  •Tailwind",
       image: "/typing-board.png",
       link: "https://typing-test-opal-delta.vercel.app"
       
