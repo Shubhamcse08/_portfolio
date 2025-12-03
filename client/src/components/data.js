@@ -18,11 +18,12 @@ const projects = [
     },
     {
       id: 3,
-      title: "Text Translator",
-      description: "It is used to translate one language into another  languages.",
-      use:"•Python  •Microsoft Azure  •Streamlit",
-      image:"/language.png" ,
-      link: "https://github.com/Shubhamcse08"
+      title: "Typing Test",
+      description: "Project that help in increasing typing speed.",
+      use:"•Python  •Tkinter",
+      image: "/typing-board.png",
+      link: "https://typing-test-opal-delta.vercel.app"
+      
     },
      {
       id: 4,
@@ -35,10 +36,10 @@ const projects = [
    
     {
       id: 5,
-      title: "Typing Test",
-      description: "Project that help in increasing typing speed.",
-      use:"•Python  •Tkinter",
-      image: "/typing-board.png",
+      title: "Text Translator",
+      description: "It is used to translate one language into another  languages.",
+      use:"•Python  •Microsoft Azure  •Streamlit",
+      image:"/language.png" ,
       link: "https://github.com/Shubhamcse08"
     },
     {
