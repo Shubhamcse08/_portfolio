@@ -16,6 +16,14 @@ const projects = [
       image:"/senti.png" ,
       link: "https://text-sentiment-analys.streamlit.app"
     },
+     {
+      id: 2.5,
+      title: "Gaming Website",
+      description: "It is used to anaylze sentiments of the text.",
+      use:"•React  •JavaScript",
+      image:"/gaming1.png" ,
+      link: "https://gaming-web-kohl.vercel.app"
+    },
     {
       id: 3,
       title: "Typing Test",
