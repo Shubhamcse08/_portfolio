@@ -19,7 +19,7 @@ const projects = [
      {
       id: 2.5,
       title: "Gaming Website",
-      description: "It is used to anaylze sentiments of the text.",
+      description: "An interactive gaming website built with React + Vite.",
       use:"•React  •JavaScript",
       image:"/gaming1.png" ,
       link: "https://gaming-web-kohl.vercel.app"
